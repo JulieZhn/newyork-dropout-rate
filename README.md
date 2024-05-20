@@ -20,3 +20,8 @@ NYC Public Schools InfoHubl, [Graduation Results](https://infohub.nyced.org/repo
 I created several tabels with the columns I want from the big datasets, and then I put the table into Datawrapper to make the map and charts. 
 
 **New Learnings**:
+I enhanced my skills in dataset searching, data collection, data visualization with Datawrapper, and coding with HTML file to hold webpage.
+
+**Improvements I could make**:
+If I got more time, I might can find some more complete datasets with both nationwide and citywide data over the recent 10 years. I could also talk to more education experts in the city and NYC public school press office to get more city-specific information in education.
+ 
